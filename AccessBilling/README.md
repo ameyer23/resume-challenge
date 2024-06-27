@@ -3,7 +3,7 @@
 Professional cloud engineers generally avoid configuring AWS credential files on their machines due to security concerns and the need to manage multiple AWS accounts. Instead, modern cloud environments leverage AWS Organizations to handle dozens or even hundreds of accounts. Here’s a guide to setting up AWS Organizations:
 
 
-![Organization Diagram ](resume-challenge/AccessBilling/org_diagram.png)
+![Organization Diagram ](https://github.com/ameyer23/resume-challenge/blob/main/AccessBilling/org_diagram.png)
 
 **Step 1: Create an Initial AWS Account**
 This account is solely for AWS Organizations/SSO setup and not for application development. Secure the root password with a reliable password manager.
