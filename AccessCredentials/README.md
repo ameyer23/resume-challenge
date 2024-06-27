@@ -1,4 +1,4 @@
-# Access and Billing Setup
+# Access and Credentials Setup
 
 Professional cloud engineers generally avoid configuring AWS credential files on their machines due to security concerns and the need to manage multiple AWS accounts. Instead, modern cloud environments leverage AWS Organizations to handle dozens or even hundreds of accounts. Here’s a guide to setting up AWS Organizations:
 
